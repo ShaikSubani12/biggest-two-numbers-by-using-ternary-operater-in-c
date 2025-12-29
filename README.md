@@ -1,0 +1,1 @@
+# biggest-two-numbers-by-using-ternary-operater-in-c
